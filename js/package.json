@@ -1,0 +1,14 @@
+{
+  "name": "google-trends-api-python",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Google Trends API in Python and JavaScript: interest over time, related/rising queries, trending searches. Working pytrends alternative with n8n workflow and MCP for AI agents.",
+  "license": "MIT",
+  "scripts": {
+    "start": "node example.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.25.0"
+  }
+}
