@@ -133,7 +133,7 @@ Sign in with Apify OAuth when asked, or send `Authorization: Bearer <APIFY_TOKEN
 
 ## Pricing
 
-$1.60 per 1,000 results (one keyword with all its data = $0.0016), no start fee, pay only for results – see [lagenuina_agency/google-trends-scraper](https://apify.com/lagenuina_agency/google-trends-scraper).
+From $2.40 per 1,000 results on the Apify Free plan down to $0.24 on Gold and above (one keyword with all its data = one result), platform usage included, no start fee, pay only for results – see [lagenuina_agency/google-trends-scraper](https://apify.com/lagenuina_agency/google-trends-scraper).
 
 ## Disclaimer
 
